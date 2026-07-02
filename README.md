@@ -5,7 +5,7 @@ A clean, chronograph-style stopwatch built with vanilla HTML, CSS, and JavaScrip
 
 ## 🔗 Live Demo
 
-[View Live Site] <!-- Replace # with your GitHub Pages link -->
+[View Live Site] :- https://niteshkumar395.github.io/StopWatch_SkillCraft/
 
 ## ✨ Features
 
